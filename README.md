@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello, I'm Raven Matsuo
+## Aspiring Software Developer | Computer Scientist Student
 
-<!--
-**ravenmatsuo/ravenmatsuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying Computer Science at Milpitas High School,
+focusing on full-stack development and cloud computing.
+I'm passionate about creating efficient, user-friendly 
+applications and contributing to open-source projects.
 
-Here are some ideas to get you started:
+### Current Projects
+- Bulidng a book store application using Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm currently learning
+- Advance Python concepts
+- Beginner Java
+- Cloud computing
+- Computer information Systems
+
+### Technical Skills
+- Languages: Python, Java
+- Tools: Git, Collab
+
+### How to reach me
+- LinkedIn:
+- Email: rmats0119@gmail.com
+
+### GitHub Stats
+
